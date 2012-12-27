@@ -1,0 +1,11 @@
+{
+   "launch_url": "http://pitu.sinaapps.com/",
+   "urls": [ "*://pitu.sinaapps.com/" ],
+   "description": "html5 canvas pitu filter drawing edit image 在线图像处理",
+   "icons": {
+      "128": "pimage.icon128.png"
+   },
+   "offline_enabled": true,
+   "name": "pitu",
+   "permissions": [ ]
+}

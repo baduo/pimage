@@ -1,0 +1,5 @@
+handle:
+- directoryindex: index.html
+- errordoc:  404 /404.html
+- errordoc:  403 /404.html
+- errordoc:  405 /404.html

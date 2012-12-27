@@ -1,0 +1,1 @@
+if($.browser.mozilla||$.browser.opera){(function(){window.addEventListener("pageshow",a,false);window.addEventListener("unload",b,false);function a(){window.addEventListener("unload",b,false);}function b(){window.removeEventListener("beforeunload",b,false);}})();}
